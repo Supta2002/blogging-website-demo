@@ -1,0 +1,31 @@
+h1
+    {
+    text-align: left;
+    color: rgb(31, 102, 188);
+    background-color: rgb(225, 197, 214);
+    }
+
+a
+    {
+        text-decoration: none;
+        padding-inline-end: 10px;
+        font-size: small;
+        color: brown;
+    }
+
+nav
+    {
+        text-align: end;
+    }
+
+span
+    {
+        font-style: italic;
+        font-weight: bold;
+        
+    }
+
+footer 
+    {
+        text-align: bottom;
+    }
